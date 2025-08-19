@@ -46,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3396-valid-word](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
