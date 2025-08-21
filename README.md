@@ -48,10 +48,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3396-valid-word](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3396-valid-word) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
