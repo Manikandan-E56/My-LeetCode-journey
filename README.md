@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
 | [0682-baseball-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0682-baseball-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0682-baseball-game) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## String
 |  |
 | ------- |
@@ -55,8 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
