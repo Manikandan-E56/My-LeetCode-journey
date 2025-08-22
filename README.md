@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
+| [1448-maximum-69-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
