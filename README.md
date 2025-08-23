@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3396-valid-word](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3396-valid-word) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1448-maximum-69-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
