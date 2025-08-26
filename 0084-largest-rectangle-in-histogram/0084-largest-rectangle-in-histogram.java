@@ -1,31 +1,20 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-        int[] pse = new int[n];
-        int[] nse = new int[n];
-        Stack<Integer> stack = new Stack<>();
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-                stack.pop();
+        int res = 0, n = heights.length;
+        Deque<Integer> stk = new ArrayDeque<>();
+        int[] left = new int[n];
+        int[] right = new int[n];
+        Arrays.fill(right, n);
+        for (int i = 0; i < n; ++i) {
+            while (!stk.isEmpty() && heights[stk.peek()] >= heights[i]) {
+                right[stk.pop()] = i;
             }
-            pse[i] = (stack.isEmpty()) ? -1 : stack.peek();
-            stack.push(i);
+            left[i] = stk.isEmpty() ? -1 : stk.peek();
+            stk.push(i);
         }
-        stack.clear();
-        for (int i = n - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-                stack.pop();
-            }
-            nse[i] = (stack.isEmpty()) ? n : stack.peek();
-            stack.push(i);
+        for (int i = 0; i < n; ++i) {
+            res = Math.max(res, heights[i] * (right[i] - left[i] - 1));
         }
-        int maxArea = 0;
-        for (int i = 0; i < n; i++) {
-            int width = nse[i] - pse[i] - 1;
-            int area = heights[i] * width;
-            maxArea = Math.max(maxArea, area);
-        }
-        return maxArea;
-        
+        return res;
     }
 }
