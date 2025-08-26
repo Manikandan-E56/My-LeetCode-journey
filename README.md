@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
 | [0498-diagonal-traverse](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0682-baseball-game) |
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
