@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0682-baseball-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3791-fruits-into-baskets-iii) |
 ## Segment Tree
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0059-spiral-matrix-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1917-maximum-average-pass-ratio) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
