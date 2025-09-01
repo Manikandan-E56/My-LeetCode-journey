@@ -1,8 +1,16 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        for(var i:matrix){
-            int j=Arrays.binarySearch(i,target);
-            if(j>=0)return true;
+        int m = matrix.length, n = matrix[0].length;
+        int i = m - 1, j = 0;
+        while (i >= 0 && j < n) {
+            if (matrix[i][j] == target) {
+                return true;
+            }
+            if (matrix[i][j] > target) {
+                --i;
+            } else {
+                ++j;
+            }
         }
         return false;
     }
