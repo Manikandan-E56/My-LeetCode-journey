@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0682-baseball-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0037-sudoku-solver) |
+| [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
