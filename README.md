@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
