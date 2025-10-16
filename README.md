@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Stack
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1917-maximum-average-pass-ratio) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
