@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
