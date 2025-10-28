@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Geometry
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
