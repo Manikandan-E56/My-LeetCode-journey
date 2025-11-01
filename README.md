@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0682-baseball-game) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1628-count-submatrices-with-all-ones) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
