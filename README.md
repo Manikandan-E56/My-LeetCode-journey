@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0179-largest-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0203-remove-linked-list-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
