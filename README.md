@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0162-find-peak-element](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3790-fruits-into-baskets-ii) |
