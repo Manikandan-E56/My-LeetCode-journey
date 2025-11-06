@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0042-trapping-rain-water) |
 | [0174-dungeon-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0174-dungeon-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
