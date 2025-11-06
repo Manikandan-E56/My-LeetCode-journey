@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0179-largest-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1454-remove-palindromic-subsequences](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1454-remove-palindromic-subsequences) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3396-valid-word](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3396-valid-word) |
 ## Matrix
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0908-middle-of-the-linked-list) |
+| [1454-remove-palindromic-subsequences](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1454-remove-palindromic-subsequences) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
