@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0203-remove-linked-list-elements) |
 ## Depth-First Search
 |  |
