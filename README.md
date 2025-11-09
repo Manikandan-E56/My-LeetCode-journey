@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0682-baseball-game) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1448-maximum-69-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
