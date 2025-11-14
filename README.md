@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0057-insert-interval) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
