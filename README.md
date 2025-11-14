@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0066-plus-one) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -220,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0029-divide-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
