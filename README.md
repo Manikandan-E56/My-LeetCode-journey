@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0219-contains-duplicate-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0179-largest-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -223,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0029-divide-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
