@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Manikandan-E56/My-LeetCode-journey/tree/master/0627-swap-sex-of-employees) |
